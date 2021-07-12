@@ -13,10 +13,9 @@
 |             | *Выполнено*                                          | 
 | VR Concept  | Знакомство с VR Concept                              | 15 часов
 | VR Concept  | Просмотр лекций и вебринаров                         | 12 часов
-| VR Concept  | Фидбэк VR Concept                                    |  2 часов
-|             | *Запланировано*                                      | 
-| VR Concept  | Написание гайда разборки редуктора                   | 10 часов
-| VR Concept  | Написание документации                               | 10 часов
+| VR Concept  | Фидбэк VR Concept                                    |  8 часов
+| VR Concept  | Добавление описания классов в SDK                    | 10 часов
+| VR Concept  | Написание документации                               |  5 часов
 | VR Concept  |                                                      | 
 | VR Concept  |                                                      | 
 | VR Concept  |                                                      | 
